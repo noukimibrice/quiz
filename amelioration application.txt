@@ -1,0 +1,5 @@
+AMELIORATION DE L'APPLICATION DE QUIZ
+
+- Une fois qu'un utilisateur s'est connecté avec son nom et mot de passe, une fois qu'il a fini de répondre aux questions posées, qu'il ne puisse plus se connecter ne serait que pour la journée en cours ou alors uniquement avec l'accord de l'administrateur.
+
+- Une fois qu'on a le message "VOUS AVEZ ECHOUE" ou encore "BRAVO VOUS ETES UN EXPERT", faire un récapitulatif des réponses apportées aux questions posées puis, envoyer ce récap dans une boite mail.
